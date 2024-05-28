@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on `grtsinry43/simple12306-frontend`(just for schoolwork)
+- 🌱 I’m currently learning `Vue.js` and` Spring Boot`
+- 🤔 I’m looking for help with `full-stack development`
+- 💬 Ask me about usage of `Arch Linux`✨
+- 📫 How to reach me: `grtsinry43@outlook.com`
+
 <!--
 **grtsinry43/grtsinry43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
