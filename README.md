@@ -6,16 +6,14 @@
 - 💬 Ask me about usage of `Arch Linux`✨
 - 📫 How to reach me: `grtsinry43@outlook.com`
 
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff" alt="GitHub 统计" style="height:14em;">
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&hide=html&layout=compact" alt="最常用的编程语言" style="height:14em;">
-    </td>
-  </tr>
-</table>
+<div style="display:flex;">
+    <div style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff" alt="GitHub 统计">
+    </div>
+    <div style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&hide=html&layout=compact" alt="最常用的编程语言">
+    </div>
+</div>
 
 
 
