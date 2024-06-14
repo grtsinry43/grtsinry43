@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on `grtsinry43/simple12306-frontend`(just for schoolwork)
+- 🔭 I’m currently working on schoolwork for final exam
 - 🌱 I’m currently learning `Vue.js` and` Spring Boot`
 - 🤔 I’m looking for help with `full-stack development`
 - 💬 Ask me about usage of `Arch Linux`✨
