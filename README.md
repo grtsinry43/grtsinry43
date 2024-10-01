@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on `grtoj` (An online judging system by Vue.js and Spring Boot)
-- 🌱 I’m currently learning `node.js`,`Nuxt.js` and` Spring Boot`
+- 🔭 I’m currently working on Frontend Learning
+- 🌱 I’m currently learning `MVVM`,`React` and` Spring Boot`
 - 🤔 I’m looking for help with `full-stack development`
 - 💬 Ask me about usage of `Arch Linux`✨
 - 📫 How to reach me: `grtsinry43@outlook.com`
