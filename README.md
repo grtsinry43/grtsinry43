@@ -14,12 +14,12 @@
       <img 
         src="https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff" 
         alt="GitHub 统计" 
-        style="height: 200px; border: none; object-fit: cover;"
+        style="height: 180px; border: none; object-fit: cover;"
       />
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&layout=compact&hide=html,css,jupyter,Jupyter%20Notebook" 
         alt="最常用的编程语言" 
-        style="height: 200px; border: none; object-fit: cover;"
+        style="height: 180px; border: none; object-fit: cover;"
       />
   </div>
 </p>
