@@ -6,14 +6,49 @@
 - 💬 Ask me about usage of `Arch Linux`✨
 - 📫 How to reach me: `grtsinry43@outlook.com`
 
-<div style="display:flex;">
-    <div style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff" alt="GitHub 统计">
-    </div>
-    <div style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&layout=compact&hide=html,css,jupyter,Jupyter%20Notebook" alt="最常用的编程语言">
-    </div>
-</div>
+[![wakatime](https://wakatime.com/badge/user/018e213e-b50d-4f78-bc57-c3899fcfa222.svg)](https://wakatime.com/@018e213e-b50d-4f78-bc57-c3899fcfa222)
+
+
+<p align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff" 
+        alt="GitHub 统计" 
+        style="height: 200px; border: none; object-fit: cover;"
+      />
+    </picture>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&layout=compact&hide=html,css,jupyter,Jupyter%20Notebook&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&layout=compact&hide=html,css,jupyter,Jupyter%20Notebook"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&layout=compact&hide=html,css,jupyter,Jupyter%20Notebook" 
+        alt="最常用的编程语言" 
+        style="height: 200px; border: none; object-fit: cover;"
+      />
+    </picture>
+  </div>
+</p>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,c,cpp,html,css,js,ts,kotlin,nuxtjs,vue,react,vscode,idea,webstorm,pycharm&theme=light" />
+</p>
+
 
 
 
