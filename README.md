@@ -6,6 +6,7 @@
 - 💬 Ask me about usage of `Arch Linux`✨
 - 📫 How to reach me: `grtsinry43@outlook.com`
 
+![](https://komarev.com/ghpvc/?username=grtsinry43&color=blue)
 [![wakatime](https://wakatime.com/badge/user/018e213e-b50d-4f78-bc57-c3899fcfa222.svg)](https://wakatime.com/@018e213e-b50d-4f78-bc57-c3899fcfa222)
 
 
