@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Frontend Learning
-- 🌱 I’m currently learning `MVVM`,`React` and` Spring Boot`
-- 🤔 I’m looking for help with `full-stack development`
+- 🌱 I’m currently learning `Micro-Frontend`,`React Native` and `Spring Boot`
+- 🤔 I’m looking for help with `Senior Front-End Development and Architecture Design`
 - 💬 Ask me about usage of `Arch Linux`✨
 - 📫 How to reach me: `grtsinry43@outlook.com`
 
