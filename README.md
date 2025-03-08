@@ -1,60 +1,89 @@
-## Hi there 👋
+<div align="center">
+  
+  # 👋 Hi there, I'm grtsinry43
+  
+  <p>
+    <a href="https://github.com/grtsinry43"><img src="https://img.shields.io/github/followers/grtsinry43?label=Followers&style=social" alt="GitHub Followers" /></a>
+    <img src="https://komarev.com/ghpvc/?username=grtsinry43&color=blueviolet&style=flat-square" alt="Profile Views" />
+    <a href="https://wakatime.com/@018e213e-b50d-4f78-bc57-c3899fcfa222"><img src="https://wakatime.com/badge/user/018e213e-b50d-4f78-bc57-c3899fcfa222.svg" alt="Wakatime" /></a>
+  </p>
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Native+Enthusiast;Arch+Linux+User;Always+Learning+New+Things" alt="Typing SVG" />
+  
+  <br/>
+</div>
 
-- 🔭 I’m currently working on Frontend Learning
-- 🌱 I’m currently learning `React Native` and `Spring Boot`
-- 🤔 I’m looking for help with `Senior Front-End Development and Architecture Design`
-- 💬 Ask me about usage of `Arch Linux`✨
-- 📫 How to reach me: `grtsinry43@outlook.com`
+## 💫 About Me
 
----
+```javascript
+const grt = {
+  currentlyWorking: "Frontend Development",
+  learning: ["React Native", "Spring Boot"],
+  lookingForHelp: "Senior Front-End Development and Architecture Design",
+  askMeAbout: "Arch Linux ✨",
+  reachMe: "grtsinry43@outlook.com",
+};
+```
 
-I'm working hard on developing the project [grtblog](https://github.com/grtsinry43/grtblog), which is one of my most energy-consuming works. I really hope it becomes useful and unique, and that it’s easy to deploy and use. Although it’s still a pretty bad project right now, I want to improve it using all the weak skills I have 💻✨.
-
-![](https://komarev.com/ghpvc/?username=grtsinry43&color=blue)
-[![wakatime](https://wakatime.com/badge/user/018e213e-b50d-4f78-bc57-c3899fcfa222.svg)](https://wakatime.com/@018e213e-b50d-4f78-bc57-c3899fcfa222)
-
-
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff" 
-        alt="GitHub 统计" 
-        style="height: 180px; border: none; object-fit: cover;"
-      />
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&layout=compact&hide=html,css,jupyter,Jupyter%20Notebook" 
-        alt="最常用的编程语言" 
-        style="height: 180px; border: none; object-fit: cover;"
-      />
-  </div>
-</p>
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grtsinry43&theme=default&utcOffset=8)
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,c,cpp,html,css,js,ts,kotlin,nuxtjs,vue,react,vscode,idea,webstorm,pycharm&theme=light" />
-</p>
+<table>
+  <tr>
+    <td style="height:200px;">
+      <a href="https://github.com/grtsinry43/grtblog">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grtsinry43&repo=grtblog&theme=tokyonight" alt="GRT Blog Repo" />
+      </a>
+    </td>
+    <td>
+      I'm working hard on developing <a href="https://github.com/grtsinry43/grtblog">grtblog</a>, which is one of my most energy-consuming works.  
+      I really hope it becomes useful and unique, and that it's easy to deploy and use.  
+      Although it's still a work in progress, I want to improve it using all the skills I have 💻✨.
+    </td>
+  </tr>
+</table>
 
 
 
+## 🚀 Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arch,c,cpp,html,css,js,ts,kotlin,nuxtjs,vue,react,vscode,idea,webstorm,pycharm&theme=light&perline=8" />
+</div>
 
-<!--
-**grtsinry43/grtsinry43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=grtsinry43&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GRT's%20GitHub%20Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter,Jupyter%20Notebook" height="170px" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grtsinry43&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grtsinry43&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📈 Activity Graph
 
-[![grtsinry43's GitHub stats](https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&bg_color=30,64B3F4,70bae8,7bc0de,84c5d5,8dc9cd,96cec4,9fd3bc,a8d8b3,b3ddaa,c2e59c&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grtsinry43&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&hide=html&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
--->
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="mailto:grtsinry43@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/grtsinry43">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add more social links as needed -->
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
