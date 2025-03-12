@@ -15,7 +15,11 @@
   <br/>
 </div>
 
-## 💫 About Me
+<br/>
+
+## ✨ About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```javascript
 const grt = {
@@ -24,8 +28,11 @@ const grt = {
   lookingForHelp: "Senior Front-End Development and Architecture Design",
   askMeAbout: "Arch Linux ✨",
   reachMe: "grtsinry43@outlook.com",
+  funFact: "I code better with coffee ☕"
 };
 ```
+
+<br/>
 
 <table>
   <tr>
