@@ -19,8 +19,6 @@
 
 ## ✨ About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ```javascript
 const grt = {
   currentlyWorking: "Frontend Development",
