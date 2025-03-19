@@ -10,7 +10,7 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Native+Enthusiast;Arch+Linux+User;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Frontend+Developer;Kotlin+Enthusiast;Arch+Linux+User;Always+Learning+New+Things" alt="Typing SVG" />
   
   <br/>
 </div>
