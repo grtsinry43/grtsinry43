@@ -1,6 +1,7 @@
 <div align="center">
   
   # 👋 Hi there, I'm grtsinry43
+  Java & JavaScript full-stack developer committed to crafting excellent software.
   
   <p>
     <a href="https://github.com/grtsinry43"><img src="https://img.shields.io/github/followers/grtsinry43?label=Followers&style=social" alt="GitHub Followers" /></a>
@@ -22,11 +23,10 @@
 ```javascript
 const grt = {
   currentlyWorking: "Frontend Development",
-  learning: ["React Native", "Spring Boot"],
+  learning: ["React Native", "Kotlin Multiplatform", "Vue/React Source Code"],
   lookingForHelp: "Senior Front-End Development and Architecture Design",
   askMeAbout: "Arch Linux ✨",
   reachMe: "grtsinry43@outlook.com",
-  funFact: "I code better with coffee ☕"
 };
 ```
 
@@ -52,7 +52,7 @@ const grt = {
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arch,c,cpp,html,css,js,ts,kotlin,nuxtjs,vue,react,vscode,idea,webstorm,pycharm&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=arch,c,cpp,python,html,css,js,ts,java,kotlin,nuxtjs,nextjs,vue,react,electron,tauri,pinia,redux,vscode,idea,webstorm,pycharm,androidstudio,docker&theme=dark&perline=8&" />
 </div>
 
 ## 📊 GitHub Stats
