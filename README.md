@@ -83,14 +83,14 @@ const grt: Developer = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=📈%20GRT's%20GitHub%20Stats&bg_color=0D1117" height="180em" />
+  <img src="https://readme-stat-kappa.vercel.app/api?username=grtsinry43&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=📈%20GRT's%20GitHub%20Stats&bg_color=0D1117" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=grtsinry43&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" height="180em" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grtsinry43&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css,jupyter,Jupyter%20Notebook&bg_color=0D1117&langs_count=8" height="180em" />
+  <img src="https://readme-stat-kappa.vercel.app/api/top-langs/?username=grtsinry43&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css,jupyter,Jupyter%20Notebook&bg_color=0D1117&langs_count=8" height="180em" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grtsinry43&theme=tokyonight&utcOffset=8" height="180em" />
 </div>
 
